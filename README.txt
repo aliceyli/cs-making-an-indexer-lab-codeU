@@ -14,7 +14,7 @@ At this point we have built a basic Web crawler; the next piece we will work on 
 
 For example, if a user submits the search terms "Java" and "programming", we would look up both search terms and get two sets of pages.  Pages with the word "Java" would include pages about the island of Java, the nickname for coffee, and the programming language.  Pages with the word "programming" would include pages about different programming languages, as well as other uses of the word.  By selecting pages with both terms, we hope to eliminate irrelevant pages and find the ones about Java programming.
 
-Now that we understand what the index is and what operations it performs, we can design a data structure to represent it.
+Now that we understand what the index is and what operatzions it performs, we can design a data structure to represent it.
 
 
 ## Data structure selection
